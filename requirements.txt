@@ -1,0 +1,8 @@
+langchain
+pdfplumber
+openai
+qdrant-client
+streamlit
+langchain-openai
+python-dotenv
+langgraph
